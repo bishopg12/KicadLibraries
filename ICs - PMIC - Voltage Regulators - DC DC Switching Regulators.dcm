@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP swr1000000001791
+D IC REG BCK BST ADJ 8.5A 121BGA
+$ENDCMP
+#
+#End Doc Library

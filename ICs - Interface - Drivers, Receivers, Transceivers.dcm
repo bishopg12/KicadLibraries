@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP swr100000000017
+D IC TXRX RS232 1MBPS LP 28-SSOP
+$ENDCMP
+#
+#End Doc Library
