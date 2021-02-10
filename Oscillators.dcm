@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP swr1000000001816
+D XTAL OSC XO 100.0000MHZ CMOS SMD
+$ENDCMP
+#
+#End Doc Library
